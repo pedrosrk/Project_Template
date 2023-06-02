@@ -5,5 +5,5 @@ Template to start a project
 - pip install flask
 
 # Enviroment (It's not mandatory)
-- python -m venv agl
-- .\agl\Scripts\activate
+- python -m venv env
+- .\env\Scripts\activate
